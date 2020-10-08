@@ -10,6 +10,7 @@
 <a href="https://www.youtube.com/channel/UCmgyoK2woumitcImSMo7LBA">
   <img align="left" alt="Khuhsi's Youtube Channel" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />
 </a>
+
 ![](https://visitor-badge.glitch.me/badge?page_id=khu5h1.khu5h1)
 
 <br />
