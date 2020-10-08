@@ -1,1 +1,1 @@
-
+[<img src="https://raw.githubusercontent.com/khu5h1/khu5h1/main/intro.gif" alt="👋 Hi there! I'm (Khushi Rauniyar|https://khu5h1.github.io)" title="👋 Hi there! I'm (Khushi Rauniyar|https://khu5h1.github.io)"/>](https://khu5h1.github.io)
